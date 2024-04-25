@@ -1,0 +1,88 @@
+C:\Работа\Новая папка (2)\ПР№1\ПР№1\bin\Debug\ПР№1.exe.config
+C:\Работа\Новая папка (2)\ПР№1\ПР№1\bin\Debug\ПР№1.exe
+C:\Работа\Новая папка (2)\ПР№1\ПР№1\bin\Debug\ПР№1.pdb
+C:\Работа\Новая папка (2)\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.AssemblyReference.cache
+C:\Работа\Новая папка (2)\ПР№1\ПР№1\obj\Debug\ПР_1.Form1.resources
+C:\Работа\Новая папка (2)\ПР№1\ПР№1\obj\Debug\ПР_1.Properties.Resources.resources
+C:\Работа\Новая папка (2)\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.GenerateResource.cache
+C:\Работа\Новая папка (2)\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.CoreCompileInputs.cache
+C:\Работа\Новая папка (2)\ПР№1\ПР№1\obj\Debug\ПР№1.exe
+C:\Работа\Новая папка (2)\ПР№1\ПР№1\obj\Debug\ПР№1.pdb
+C:\Работа\Новая папка (2)\ПР№1\ПР№1\obj\Debug\ПР_1.Form2.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР1\ПР№1\ПР№1\bin\Debug\ПР№1.exe.config
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР1\ПР№1\ПР№1\bin\Debug\ПР№1.exe
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР1\ПР№1\ПР№1\bin\Debug\ПР№1.pdb
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР1\ПР№1\ПР№1\obj\Debug\ПР_1.Form1.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР1\ПР№1\ПР№1\obj\Debug\ПР_1.Form2.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР1\ПР№1\ПР№1\obj\Debug\ПР_1.Properties.Resources.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.GenerateResource.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР1\ПР№1\ПР№1\obj\Debug\ПР№1.exe
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР1\ПР№1\ПР№1\obj\Debug\ПР№1.pdb
+C:\Users\79537\Source\Repos\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.AssemblyReference.cache
+C:\Users\79537\Source\Repos\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР_1.Form1.resources
+C:\Users\79537\Source\Repos\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР_1.Form2.resources
+C:\Users\79537\Source\Repos\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР_1.Properties.Resources.resources
+C:\Users\79537\Source\Repos\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.GenerateResource.cache
+C:\Users\79537\Source\Repos\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.CoreCompileInputs.cache
+C:\Users\79537\Source\Repos\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР№1.exe
+C:\Users\79537\Source\Repos\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР№1.pdb
+C:\Users\79537\Source\Repos\PR-1.1\ПР№1\ПР№1\bin\Debug\ПР№1.exe.config
+C:\Users\79537\Source\Repos\PR-1.1\ПР№1\ПР№1\bin\Debug\ПР№1.exe
+C:\Users\79537\Source\Repos\PR-1.1\ПР№1\ПР№1\bin\Debug\ПР№1.pdb
+C:\Users\79537\Source\Repos\PR1.1\PR-1.1\ПР№1\ПР№1\bin\Debug\ПР№1.exe.config
+C:\Users\79537\Source\Repos\PR1.1\PR-1.1\ПР№1\ПР№1\bin\Debug\ПР№1.exe
+C:\Users\79537\Source\Repos\PR1.1\PR-1.1\ПР№1\ПР№1\bin\Debug\ПР№1.pdb
+C:\Users\79537\Source\Repos\PR1.1\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.AssemblyReference.cache
+C:\Users\79537\Source\Repos\PR1.1\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР_1.Form1.resources
+C:\Users\79537\Source\Repos\PR1.1\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР_1.Form2.resources
+C:\Users\79537\Source\Repos\PR1.1\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР_1.Properties.Resources.resources
+C:\Users\79537\Source\Repos\PR1.1\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.GenerateResource.cache
+C:\Users\79537\Source\Repos\PR1.1\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.CoreCompileInputs.cache
+C:\Users\79537\Source\Repos\PR1.1\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР№1.exe
+C:\Users\79537\Source\Repos\PR1.1\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР№1.pdb
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка\PR1.1\PR-1.1\ПР№1\ПР№1\bin\Debug\ПР№1.exe.config
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка\PR1.1\PR-1.1\ПР№1\ПР№1\bin\Debug\ПР№1.exe
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка\PR1.1\PR-1.1\ПР№1\ПР№1\bin\Debug\ПР№1.pdb
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка\PR1.1\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка\PR1.1\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР_1.Form1.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка\PR1.1\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР_1.Form2.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка\PR1.1\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР_1.Properties.Resources.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка\PR1.1\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.GenerateResource.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка\PR1.1\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка\PR1.1\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР№1.exe
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка\PR1.1\PR-1.1\ПР№1\ПР№1\obj\Debug\ПР№1.pdb
+C:\Users\79537\Source\Repos\PR-1\ПР№1\ПР№1\bin\Debug\ПР№1.exe.config
+C:\Users\79537\Source\Repos\PR-1\ПР№1\ПР№1\bin\Debug\ПР№1.exe
+C:\Users\79537\Source\Repos\PR-1\ПР№1\ПР№1\bin\Debug\ПР№1.pdb
+C:\Users\79537\Source\Repos\PR-1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.AssemblyReference.cache
+C:\Users\79537\Source\Repos\PR-1\ПР№1\ПР№1\obj\Debug\ПР_1.Form1.resources
+C:\Users\79537\Source\Repos\PR-1\ПР№1\ПР№1\obj\Debug\ПР_1.Form2.resources
+C:\Users\79537\Source\Repos\PR-1\ПР№1\ПР№1\obj\Debug\ПР_1.Properties.Resources.resources
+C:\Users\79537\Source\Repos\PR-1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.GenerateResource.cache
+C:\Users\79537\Source\Repos\PR-1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.CoreCompileInputs.cache
+C:\Users\79537\Source\Repos\PR-1\ПР№1\ПР№1\obj\Debug\ПР№1.exe
+C:\Users\79537\Source\Repos\PR-1\ПР№1\ПР№1\obj\Debug\ПР№1.pdb
+C:\Users\79537\Source\Repos\PR-1\PR-1\ПР№1\ПР№1\bin\Debug\ПР№1.exe.config
+C:\Users\79537\Source\Repos\PR-1\PR-1\ПР№1\ПР№1\bin\Debug\ПР№1.exe
+C:\Users\79537\Source\Repos\PR-1\PR-1\ПР№1\ПР№1\bin\Debug\ПР№1.pdb
+C:\Users\79537\Source\Repos\PR-1\PR-1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.AssemblyReference.cache
+C:\Users\79537\Source\Repos\PR-1\PR-1\ПР№1\ПР№1\obj\Debug\ПР_1.Form1.resources
+C:\Users\79537\Source\Repos\PR-1\PR-1\ПР№1\ПР№1\obj\Debug\ПР_1.Form2.resources
+C:\Users\79537\Source\Repos\PR-1\PR-1\ПР№1\ПР№1\obj\Debug\ПР_1.Properties.Resources.resources
+C:\Users\79537\Source\Repos\PR-1\PR-1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.GenerateResource.cache
+C:\Users\79537\Source\Repos\PR-1\PR-1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.CoreCompileInputs.cache
+C:\Users\79537\Source\Repos\PR-1\PR-1\ПР№1\ПР№1\obj\Debug\ПР№1.exe
+C:\Users\79537\Source\Repos\PR-1\PR-1\ПР№1\ПР№1\obj\Debug\ПР№1.pdb
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-1\PR-1\ПР№1\ПР№1\bin\Debug\ПР№1.exe.config
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-1\PR-1\ПР№1\ПР№1\bin\Debug\ПР№1.exe
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-1\PR-1\ПР№1\ПР№1\bin\Debug\ПР№1.pdb
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-1\PR-1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-1\PR-1\ПР№1\ПР№1\obj\Debug\ПР_1.Form1.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-1\PR-1\ПР№1\ПР№1\obj\Debug\ПР_1.Form2.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-1\PR-1\ПР№1\ПР№1\obj\Debug\ПР_1.Properties.Resources.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-1\PR-1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.GenerateResource.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-1\PR-1\ПР№1\ПР№1\obj\Debug\ПР№1.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-1\PR-1\ПР№1\ПР№1\obj\Debug\ПР№1.exe
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-1\PR-1\ПР№1\ПР№1\obj\Debug\ПР№1.pdb
