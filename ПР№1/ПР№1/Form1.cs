@@ -61,10 +61,6 @@ namespace ПР_1
         {
             toolTip1.SetToolTip(button3Exit, "Выйти");
         }
-        //private void label5_Click(object sender, EventArgs e)
-        //{
-
-        //}
 
         private void button1_Click(object sender, EventArgs e)
         {
